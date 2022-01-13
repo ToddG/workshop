@@ -22,7 +22,7 @@ already have. So I needed to build an adapter post.
 
 I started with raw stock and machined it to nominal size:
 
-![raw stock](projects/tool-post-raw-stock.jpeg)
+![raw stock](projects/tool-post/photos/tool-post-raw-stock.jpeg)
 
 In retrospect, I need to cut my stock longer to give me room to work around the chuck and
 the tailstock.
