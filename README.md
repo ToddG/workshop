@@ -21,7 +21,7 @@ I'm bootstrapping in roughly this order...
 * [Learn FreeCAD](https://www.freecad.org/)
 * [Upgrade Lathe to AXA tool post](./projects/tool-post/readme.md)
 * [Build a panel saw](./projects/panel-saw/readme.md)
-* rolling table saw cabinet
+* [Build rolling table saw cabinet](./projects/table-saw-cabinet/readme.md)
 * rolling chop saw cabinet
 * rolling metal work cabinet
 * disc sander
