@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+
+# -----------------------------------------------------------------------------
+# Create a new FreeCAD document with common constructs:
+#   * master sketches
+# -----------------------------------------------------------------------------
+
+import FreeCAD
+import Sketcher
+import Spreadsheet
+import PartDesign
+
+# create new document
+doc="Unnamed"
+App.newDocument(doc)
+
+
+# create master xy
+def add_master_sketches():
+	# xy
+	App.activeDocument().addObject('Sketcher::SketchObject', 'master_xy_sketch')
+	App.activeDocument().master_xy_sketch.Placement = App.Placement(App.Vector(0.000000, 0.000000, 0.000000), App.Rotation(0.000000, 0.000000, 0.000000, 1.000000))
+	App.activeDocument().master_xy_sketch.MapMode = "Deactivated"
+
+	#yz
+	App.activeDocument().addObject('Sketcher::SketchObject', 'master_yz_sketch')
+	App.activeDocument().master_yz_sketch.Placement = App.Placement(App.Vector(0.000000, 0.000000, 0.000000), App.Rotation(0.500000, 0.500000, 0.500000, 0.500000))
+	App.activeDocument().master_yz_sketch.MapMode = "Deactivated"
+
+	#xz
+	App.activeDocument().addObject('Sketcher::SketchObject', 'master_xz_sketch')
+	App.activeDocument().master_xz_sketch.Placement = App.Placement(App.Vector(0.000000, 0.000000, 0.000000), App.Rotation(-0.707107, 0.000000, 0.000000, -0.707107))
+	App.activeDocument().master_xz_sketch.MapMode = "Deactivated"
+
+add_master_sketches()
