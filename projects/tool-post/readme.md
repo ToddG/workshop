@@ -11,7 +11,7 @@ already have. So I needed to build an adapter post.
 
 I started with raw stock and machined it to nominal size:
 
-![raw stock](projects/tool-post/photos/tool-post-raw-stock.jpeg)
+![raw stock](./photos/tool-post-raw-stock.jpeg)
 
 In retrospect, I need to cut my stock longer to give me room to work around the chuck and
 the tailstock.
@@ -21,7 +21,7 @@ the tailstock.
 
 After much whittling away of material, I finally crafted a somewhat janky tool post:
 
-![tool-posts](projects/tool-post/photos/tool-posts.jpeg)
+![tool-posts](./photos/tool-posts.jpeg)
 
 The post on the left is a bolt that is used to bootstrap me into the new tool post. I
 needed to do this b/c all my thread cutting bits are 1/2" for the new AXA post and 
@@ -31,13 +31,13 @@ holders. I used the modified bolt to machine the new tool post, on the right.
 
 Here's the completed tool post installing into the compound:
 
-![tool-post in cross slide](projects/tool-post/photos/tool-post-complete.jpeg)
+![tool-post in cross slide](./photos/tool-post-complete.jpeg)
 
 ### done
 
 And finally, the AXA tool post all assembled and ready for business:
 
-![tool-post installed](projects/tool-post/photos/tool-post-installing.jpeg)
+![tool-post installed](./photos/tool-post-installing.jpeg)
 
 ## lessons learned
 
