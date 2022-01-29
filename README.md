@@ -12,7 +12,7 @@ I'm building out a workshop, here's what I've built so far:
 * [tool post](./projects/tool-post/readme.md)
 * [panel saw](./projects/panel-saw/readme.md)
 * [mason bee house](./projects/mason-bee-house/readme.md)
-* [layens frame](./projects/honey-bees/hives/readme.md)
+* [honey bees](./projects/honey-bees/readme.md)
 
 
 ### TODO
