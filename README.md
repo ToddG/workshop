@@ -11,19 +11,14 @@ I'm building out a workshop, here's what I've built so far:
 
 * [tool post](./projects/tool-post/readme.md)
 * [panel saw](./projects/panel-saw/readme.md)
+* [mason bees](./projects/mason-bee-house/readme.md)
 
 
 ### TODO
 
-
-I'm bootstrapping in roughly this order...
-
-* [Learn FreeCAD](https://www.freecad.org/)
-* [Upgrade Lathe to AXA tool post](./projects/tool-post/readme.md)
-* [Build a panel saw](./projects/panel-saw/readme.md)
-* [Build rolling table saw cabinet](./projects/table-saw-cabinet/readme.md)
-* rolling chop saw cabinet
-* rolling metal work cabinet
+* [saw table](./projects/table-saw-cabinet/readme.md)
+* chop saw table
+* metal work table
 * disc sander
 
 
