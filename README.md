@@ -20,7 +20,6 @@ I'm building out a workshop, here's what I've built so far:
 
 ### TODO
 
-* chop saw table
 * metal work table
 * disc sander
 
