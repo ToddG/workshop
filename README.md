@@ -15,6 +15,7 @@ I'm building out a workshop, here's what I've built so far:
 * [honey bees](./projects/honey-bees/readme.md)
 * [saw table](./projects/table-saw-cabinet/readme.md)
 * [router table](./projects/router-table-cabinet/readme.md)
+* [chop saw table](./projects/chop-saw-table/readme.md)
 
 
 ### TODO
