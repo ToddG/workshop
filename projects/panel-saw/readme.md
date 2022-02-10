@@ -26,6 +26,27 @@ this is an easy fix, as nothing in the current implementation is glued.
 ![small_IMG_20220121_155320004.jpg](./photos/small_IMG_20220121_155320004.jpg)
 ![small_IMG_20220121_155331849.jpg](./photos/small_IMG_20220121_155331849.jpg)
 
-## fixed
+## fixes
 
-TODO...
+I had to fix some things.
+
+* ![panel-saw-in-use.jpeg](./photos/panel-saw-in-use.jpeg)
+
+I am using counter weights that are old window sash weights:
+
+* ![panel-saw-counter-weights.jpeg](./photos/panel-saw-counter-weights.jpeg)
+
+Three of these are a perfect counter weight to the panel saw sled, but it was too heavy for the cheap metal brackets I purchased for the
+metal pulleys (which are just cheap metal doo-dads for a sliding door, iirc).
+
+* ![panel-saw-pully-01.jpeg](./photos/panel-saw-pully-01.jpeg)
+* ![panel-saw-pully-02.jpeg](./photos/panel-saw-pully-02.jpeg)
+
+What you see above are stout pieces of scrap metal I had on hand. I had no plan, just a drill and some bolts.
+
+Below is the fence and, strangely, a wood fence above it. So with the current design, at full extension, the
+saw blade was not making a full cut through the aluminum fence. So I shimmed the fence out with a piece of 
+plywood. This had the added benefit of giving me an easy place to screw down the (admitedly cheap and flimsy)
+hold down clamps. I'll be upgrading all of this over time, but for now, it works great.
+
+* ![panel-saw-fence-and-fence.jpeg](./photos/panel-saw-fence-and-fence.jpeg)
