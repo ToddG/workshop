@@ -13,11 +13,12 @@ I'm building out a workshop, here's what I've built so far:
 * [panel saw](./projects/panel-saw/readme.md)
 * [mason bee house](./projects/mason-bee-house/readme.md)
 * [honey bees](./projects/honey-bees/readme.md)
+* [saw table](./projects/table-saw-cabinet/readme.md)
+* [router table](./projects/router-table-cabinet/readme.md)
 
 
 ### TODO
 
-* [saw table](./projects/table-saw-cabinet/readme.md)
 * chop saw table
 * metal work table
 * disc sander
