@@ -61,6 +61,12 @@ have enough clearance for 2x lumber. It will, once I replace the sled base and/o
 rails. But, it works great as-is for plywood, so we'll see if that fix ever happens. Meanwhile, a salvaged cabinets plus some
 wheels did the trick.
 
+#### [disc sander](./projects/disc-sander/readme.md)
+
+
+![disc-sander.png](./photos/disk-sander.png)
+
+A disc sander is the next step in the tool chain progression.
 
 ### TODO
 
