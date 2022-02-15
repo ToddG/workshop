@@ -64,7 +64,7 @@ wheels did the trick.
 #### [disc sander](./projects/disc-sander/readme.md)
 
 
-![disc-sander.png](./photos/disk-sander.png)
+![disc-sander.png](./photos/disc-sander.png)
 
 A disc sander is the next step in the tool chain progression.
 
