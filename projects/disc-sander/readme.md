@@ -5,8 +5,13 @@ components. Often, I see craftspeople shaping a part to a design that's been glu
 of wood (or metal). And the disk sander seems useful for shaping tools, putting bevels on chisels
 perhaps. So this seems like the next logical tool to make in the shop bootstrap process.
 
+See: https://www.youtube.com/watch?v=MNC4SUCrYFs
+
 ## design
 
-## implementation
+* ![backside.png](./photos/backside.png)
+* ![frontside.png](./photos/frontside.png)
 
+
+## implementation
 
