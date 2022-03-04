@@ -76,7 +76,6 @@ A disc sander is the next step in the tool chain progression.
 
 ### more projects on deck
 * metal work table
-* disc sander
 
 
 ## design tools
